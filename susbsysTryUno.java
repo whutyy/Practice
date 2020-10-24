@@ -5,5 +5,6 @@ public class susbsysTryUno {
     }
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Reyes is teaching us stuck arraysand its boring");
     }
 }
